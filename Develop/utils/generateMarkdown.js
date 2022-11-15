@@ -10,6 +10,7 @@ function generateMarkdown(data) {
   - [Contribution](#Contribution)
   - [Test](#Test)
   - [License](#License)
+  - [Support](#Support)
 
   ## Description 
   ${data.description}
@@ -28,6 +29,10 @@ function generateMarkdown(data) {
 
   ## License
   ${data.license}
+
+  ## Support
+  ${data.email}
+  ${data.username}
 `;
 }
 
