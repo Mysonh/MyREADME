@@ -32,5 +32,8 @@ Quickly and easily create a README file by using a command-line application to g
 ## Installation
 Run node index.js in the terminal to start application
 
+## Sample ReadME
+![readme generated using the generator](/Users/mysonhoward/Desktop/bootcamp/README_Generator/Screen Shot 2022-11-15 at 3.57.49 AM.png)
+
 ## Link to Video
 [Video Link](https://youtu.be/O0AmVdfbSjc)
