@@ -6,6 +6,7 @@ AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 ```
+
 ## Acceptance Criteria
 ```md
 GIVEN a command-line application that accepts user input
@@ -24,9 +25,12 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
+
 ## Description
 Quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
+
 ## Installation
 Run node index.js in the terminal to start application
-## Link to Video
 
+## Link to Video
+[Video Link](https://youtu.be/O0AmVdfbSjc)
